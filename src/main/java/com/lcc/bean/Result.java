@@ -65,5 +65,5 @@ public class Result<T> implements Serializable {
     public String toString() {
         return "Result [status=" + status + ", errCode=" + errCode + ", errMsg=" + errMsg + ", resultData=" + resultData + "]";
     }
-    
+
 }
