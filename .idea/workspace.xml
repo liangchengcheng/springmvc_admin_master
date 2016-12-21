@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a2fc430-774d-4019-88f9-e36a0935cc86" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/DataDictionaryListService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/DataDictionaryService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/EmailAccountInfoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/EmailInfoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/PermissionService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/RolePermissionsService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/RoleService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/UserRoleService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/UserRoleServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/DataDictionaryListServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/DataDictionaryServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/EmailInfoServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/PermissionServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/RolePermissionsServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/RoleServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="springmvc_admin_master.iws" />
@@ -36,38 +31,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/UserServiceImpl.java">
+      <file leaf-file-name="DataDictionaryListServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/DataDictionaryListServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
+            <state relative-caret-position="-405">
+              <caret line="71" column="29" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1139#1147#0" expanded="true" />
-                <element signature="e#1609#1618#0" expanded="true" />
-                <element signature="e#2083#2084#0" expanded="true" />
-                <element signature="e#2321#2322#0" expanded="true" />
-                <element signature="e#2381#2382#0" expanded="true" />
-                <element signature="e#2717#2718#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserRoleServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/UserRoleServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1435">
-              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#530#542#0" expanded="true" />
-                <element signature="e#1013#1031#0" expanded="true" />
-                <element signature="e#1519#1531#0" expanded="true" />
-                <element signature="e#2142#2151#0" expanded="true" />
-                <element signature="e#2699#2708#0" expanded="true" />
-                <element signature="e#3242#3251#0" expanded="true" />
-                <element signature="e#3662#3671#0" expanded="true" />
+                <element signature="e#2373#2381#0" expanded="true" />
+                <element signature="e#4843#4851#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,12 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/bean/entity/RcUserLoginLogsExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/bean/entity/RcUserRole.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/bean/entity/RcUserRoleExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/cache/EmailAccountInfoCache.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/util/base/BaseController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/util/base/Page.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/util/base/PageBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/util/base/CachedImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/util/base/MyBatis.java" />
@@ -150,6 +116,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/DataDictionaryListService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/UserRoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/RolePermissionsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/PermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/EmailInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/DataDictionaryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/impl/DataDictionaryListServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -167,8 +139,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="426" />
-    <option name="y" value="66" />
+    <option name="x" value="22" />
+    <option name="y" value="22" />
     <option name="width" value="1266" />
     <option name="height" value="734" />
   </component>
@@ -790,15 +762,15 @@
       <workItem from="1482141864924" duration="2729000" />
       <workItem from="1482243512436" duration="4437000" />
       <workItem from="1482325307518" duration="3126000" />
-      <workItem from="1482330120054" duration="474000" />
+      <workItem from="1482330120054" duration="1764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10766000" />
+    <option name="totallyTimeSpent" value="12056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="426" y="66" width="1266" height="734" extended-state="0" />
+    <frame x="22" y="22" width="1266" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -851,58 +823,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/util/base/PageBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/util/base/CachedImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/util/DateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="333" column="51" selection-start-line="333" selection-start-column="44" selection-end-line="333" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/util/base/SqlUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="159" column="11" selection-start-line="159" selection-start-column="11" selection-end-line="159" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/bean/entity/RcUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1010">
-          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/bean/entity/RcUserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/util/ConfUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -963,6 +883,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1140,6 +1061,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="90" column="34" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#2697#2698#0" expanded="true" />
+            <element signature="e#2749#2750#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1269,6 +1197,100 @@
             <element signature="e#2699#2708#0" expanded="true" />
             <element signature="e#3242#3251#0" expanded="true" />
             <element signature="e#3662#3671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-610">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#518#526#0" expanded="true" />
+            <element signature="e#956#965#0" expanded="true" />
+            <element signature="e#1533#1542#0" expanded="true" />
+            <element signature="e#2104#2113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/bean/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/RolePermissionsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="117" column="25" selection-start-line="117" selection-start-column="25" selection-end-line="117" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#586#605#0" expanded="true" />
+            <element signature="e#1118#1143#0" expanded="true" />
+            <element signature="e#1637#1646#0" expanded="true" />
+            <element signature="e#2234#2243#0" expanded="true" />
+            <element signature="e#2803#2812#0" expanded="true" />
+            <element signature="e#3244#3253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/PermissionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-610">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#566#580#0" expanded="true" />
+            <element signature="e#1052#1061#0" expanded="true" />
+            <element signature="e#1673#1682#0" expanded="true" />
+            <element signature="e#2276#2285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/EmailInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="134" column="28" selection-start-line="134" selection-start-column="28" selection-end-line="134" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5269#5270#0" expanded="true" />
+            <element signature="e#5329#5330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/DataDictionaryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#670#688#0" expanded="true" />
+            <element signature="e#1672#1696#0" expanded="true" />
+            <element signature="e#2335#2353#0" expanded="true" />
+            <element signature="e#2764#2772#0" expanded="true" />
+            <element signature="e#3185#3203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/impl/DataDictionaryListServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="71" column="29" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2373#2381#0" expanded="true" />
+            <element signature="e#4843#4851#0" expanded="true" />
           </folding>
         </state>
       </provider>
