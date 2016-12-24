@@ -25,10 +25,6 @@ public class EmailAccountInfoBiz {
 
     /**
      * 分页查询
-     *
-     * @param pageCurrent
-     * @param pageSize
-     * @return
      */
     public Result<Page<RcEmailAccountInfo>> listForPage(int pageCurrent, int pageSize, String premise, String datePremise) {
         return emailAccountInfoService.listForPage(pageCurrent, pageSize,premise,datePremise);
